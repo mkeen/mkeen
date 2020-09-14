@@ -1,6 +1,6 @@
 ### 👋 Hello!
 
-I'm into real-time user interfaces, large scale data pipelines, and software in general. Always down to collab, but make sure you bring something to the table.
+I'm into real-time user interfaces, large scale data pipelines, and software in general. Below are my personal projects. I welcome contributions and feedback!
 
 <!--
 **mkeen/mkeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

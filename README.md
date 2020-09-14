@@ -1,4 +1,4 @@
-### 👋 Hello!
+### 👋 Hi, I'm Mike!
 
 I'm into real-time user interfaces, large scale data pipelines, and software in general. Below are my personal projects. I welcome contributions and feedback!
 

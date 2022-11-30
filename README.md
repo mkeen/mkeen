@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Mike!
+### 👋 Hi, I'm Mike, also known as drexler!
 
-I'm into real-time user interfaces, large scale data pipelines and security.
+I'm into real-time user interfaces, large scale data pipelines and security. Currently building on the Cardano network.
 
 <!--
 **mkeen/mkeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

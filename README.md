@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Mike, also known as drexler!
+### 👋
 
 I'm into real-time user interfaces, large scale data pipelines and security. Currently building on the Cardano network.
 

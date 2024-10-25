@@ -1,6 +1,6 @@
 ### 👋
 
-I'm into real-time user interfaces, large scale data pipelines and security. Currently building on the Cardano network.
+I'm into real-time user interfaces, large scale data pipelines, security, blockchain, and AI. I've done it all at this point. Thankful!
 
 <!--
 **mkeen/mkeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
